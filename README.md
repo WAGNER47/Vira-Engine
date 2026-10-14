@@ -1,7 +1,7 @@
 <h1 align="center">Vira Engine</h1>
 <p align="center">A game engine that is one HTML file. Open it in a browser and build.</p>
 
-![A night scene made in Vira Engine: rain falling through a street lamp's beam onto wet paving]<img width="880" height="560" alt="hero" src="https://github.com/user-attachments/assets/ba46f30c-12c8-4b68-9082-61aa101169f7" />
+[A night scene made in Vira Engine: rain falling through a street lamp's beam onto wet paving]<img width="880" height="560" alt="hero" src="https://github.com/user-attachments/assets/ba46f30c-12c8-4b68-9082-61aa101169f7" />
 
 
 Vira is a no-code game engine that runs entirely in a browser tab. There is no install, no build step and no account. You get a level editor, a room builder, terrain, logic, cutscenes, lighting and a game to play, all from a single `vira.html` you can double-click.
@@ -25,7 +25,8 @@ Vira is a no-code game engine that runs entirely in a browser tab. There is no i
 
 ## Building levels
 
-![The Vira Engine level editor](docs/editor.jpg)
+![The Vira Engine level editor]<img width="1400" height="875" alt="editor" src="https://github.com/user-attachments/assets/e586cb0b-0b6d-49e4-9c16-26d076c5b22d" />
+
 
 The room builder works like a drawing tool. Pick a shape, drag it out, and walls, floors and ceilings appear with the right thickness. Rooms that touch lose the wall between them while you drag, so corridors join buildings without leftover pillars.
 
@@ -34,17 +35,20 @@ The room builder works like a drawing tool. Pick a shape, drag it out, and walls
 - A live 2D plan that stays in step with the 3D as you draw, move or push a wall
 - Terrain with nine brushes, four paint layers, grass and five kinds of tree
 
-![Hexagon, circle and rectangle rooms](docs/rooms.jpg)
+![Hexagon, circle and rectangle rooms]<img width="920" height="660" alt="rooms" src="https://github.com/user-attachments/assets/648b6cc5-c7c7-4049-bd84-5fc5961f3443" />
+
 
 ## Logic without code
 
-![The Reactor view of one behaviour](docs/reactor.jpg)
+![The Reactor view of one behaviour]<img width="820" height="450" alt="reactor" src="https://github.com/user-attachments/assets/54509a77-8f88-4121-aa8f-f2b746556686" />
+
 
 Behaviour reads as a sentence: when this happens, check that, then do these things. Every highlighted word is a dropdown, and steps can be dragged to reorder them. The Reactor view draws the same behaviour as a reaction chain, so you can press Trace and watch it run.
 
 ## Cutscenes
 
-![The cutscene timeline](docs/timeline.jpg)
+![The cutscene timeline]<img width="1030" height="410" alt="timeline" src="https://github.com/user-attachments/assets/178a97e3-41ef-4534-9bce-076b01012faf" />
+
 
 - Camera bodies with their own sensor sizes and frame shapes, from Super 16 to a 1.43 giant format
 - Lenses in millimetres that zoom between shots, plus roll and handheld shake
