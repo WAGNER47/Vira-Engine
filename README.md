@@ -1,7 +1,8 @@
 <h1 align="center">Vira Engine</h1>
 <p align="center">A game engine that is one HTML file. Open it in a browser and build.</p>
 
-![A night scene made in Vira Engine: rain falling through a street lamp's beam onto wet paving](docs/hero.jpg)
+![A night scene made in Vira Engine: rain falling through a street lamp's beam onto wet paving]<img width="880" height="560" alt="hero" src="https://github.com/user-attachments/assets/ba46f30c-12c8-4b68-9082-61aa101169f7" />
+
 
 Vira is a no-code game engine that runs entirely in a browser tab. There is no install, no build step and no account. You get a level editor, a room builder, terrain, logic, cutscenes, lighting and a game to play, all from a single `vira.html` you can double-click.
 
