@@ -1,8 +1,10 @@
 # Vira Engine
 
-A passion project by Ramtin Mohammadi ([@Ramtinvibes](https://instagram.com/ramtinvibes)).
+A no-code 3D game editor that runs offline from one HTML file. You build the level, logic, models, rooms, terrain, animation, HUD, sound and cutscenes in one window, then press Play to test.
 
-Vira Engine is a no-code 3D game engine that runs offline as a single HTML file. You build the level, logic, models, rooms, terrain, animation, HUD, sound and cutscenes in one window, then press Play to test.
+**[Open the editor](https://wagner47.github.io/Vira-Engine/)** in a desktop browser with a mouse and keyboard.
+
+Made by Ramtin Mohammadi ([@ramtinvibes](https://instagram.com/ramtinvibes)). Vira Engine is in active development.
 
 ![Level editor](assets/level.jpg)
 
@@ -70,3 +72,10 @@ Vira Engine is a no-code 3D game engine that runs offline as a single HTML file.
 
 ## Example projects
 Starter level, Gameplay test, Noir test, Skyline Valley, Project Animation Test, Logic Tiles test, Empty level, Roguelike dungeon, Open world.
+
+## Built with
+- [Three.js](https://threejs.org) for rendering (MIT License)
+- [cannon.js](https://github.com/schteppe/cannon.js) for physics (MIT License)
+
+## License
+© 2026 Ramtin Mohammadi. All rights reserved. You can try the editor in your browser. Please don't copy, host or redistribute it without permission.
